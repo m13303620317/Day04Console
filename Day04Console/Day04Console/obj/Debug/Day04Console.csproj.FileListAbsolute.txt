@@ -1,0 +1,8 @@
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\bin\Debug\Day04Console.exe.config
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\bin\Debug\Day04Console.exe
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\bin\Debug\Day04Console.pdb
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\obj\Debug\Day04Console.csproj.AssemblyReference.cache
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\obj\Debug\Day04Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\obj\Debug\Day04Console.csproj.CoreCompileInputs.cache
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\obj\Debug\Day04Console.exe
+C:\Users\jialinl\source\repos\Day04Console\Day04Console\obj\Debug\Day04Console.pdb
